@@ -1,3 +1,3 @@
-## Calculator
-A simple calculator built with HTML, CSS, and JavaScript.  
-Performs basic arithmetic operations: addition, subtraction, multiplication, division.
+## Image Gallery
+A responsive image gallery showcasing multiple images.  
+Built using HTML, CSS, and JavaScript.
